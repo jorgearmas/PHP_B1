@@ -14,3 +14,5 @@ do {
 } while(in_array($username, $usernames));
 
 print_r($usernames);
+
+?>
